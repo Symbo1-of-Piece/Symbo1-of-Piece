@@ -5,7 +5,7 @@ I am a data analyst and Python developer with 7 years of experience in the chemi
 Today, I'm a participant of the analytics laboratory at [Escort Monitoring Systems](https://www.fmeter.ru/en/), an international manufacturer of measuring equipment for GPS/Glonass satellite systems in transport monitoring. Our products include fuel level sensors and control detectors for various machinery used in road construction, public utility, and agriculture. We are dedicated to making the world cleaner and smarter.
 
 
-## My Branch 🚀
+## My field 🚀
 
 I specialize in programming in Python, and I confidently use it for data analysis, Machine Learning model development, and desktop application creation.
 

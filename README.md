@@ -34,7 +34,7 @@ I specialize in programming in Python, and I confidently use it for data analysi
 ## Stack 🛠
   [![My Skills](https://skillicons.dev/icons?i=python,anaconda,postgres,mongodb,docker,git)](https://skillicons.dev)
 
-## Data Analysis and Machine Learning
+### Data Analysis and Machine Learning
 - Pandas
 - NumPy
 - SciPy
@@ -45,30 +45,30 @@ I specialize in programming in Python, and I confidently use it for data analysi
 - nltk
 - Time Series Analysis, hypothesis testing, and A/B testing
 
-## Data Visualization
+### Data Visualization
 - Matplotlib
 - Plotly
 - Seaborn
 
-## Computer Vision
+### Computer Vision
 - OpenCV
 
-## Database
+### Database
 - MongoDB
 - SQL
 
-## Web Scraping
+### Web Scraping
 - Aiohttp
 - Beautiful Soup (bs4)
 
-## Dashboard Creation and GUI
+### Dashboard Creation and GUI
 - Dash
 - Tkinter
 - Pysimplegui
 
-## Concurrent Programming
+### Concurrent Programming
 - Asyncio
 - Threading
 
-## Version Control
+### Version Control
 - Git: Proficient in Git for collaborative version control and managing project repositories on platforms like GitHub.

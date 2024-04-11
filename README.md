@@ -30,7 +30,5 @@ Today, I'm a participant of the analytics laboratory at [FMeter](https://www.fme
 - **Mentoring:**
   - I have experience in mentoring, onboarding, and integrating employees into company with 30+ individuals and conducting lessons on team building
  
-<h3 align="left">🛠 Технологии:</h3>
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+## Stack 🛠
+  [![My Skills](https://skillicons.dev/icons?i=python,anaconda,postgres,mongodb,docker,git)](https://skillicons.dev)

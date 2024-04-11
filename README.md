@@ -1,6 +1,6 @@
 # 👋 Nice to e-meet you, I'm Tim
 
-I am a data analyst and Python developer with 7 years of experience in the chemical and petrochemical industries. 
+I am a data analyst and Python developer with 7 years of experience in the chemistry and petrochemistry
 
 Today, I'm a participant of the analytics laboratory at [Escort Monitoring Systems](https://www.fmeter.ru/en/), an international manufacturer of measuring equipment for GPS/Glonass satellite systems in transport monitoring. Our products include fuel level sensors and control detectors for various machinery used in road construction, public utility, and agriculture. We are dedicated to making the world cleaner and smarter.
 

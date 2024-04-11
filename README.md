@@ -5,17 +5,18 @@ I am a data analyst and Python developer with 7 years of experience in the chemi
 Today, I'm a participant of the analytics laboratory at [FMeter](https://www.fmeter.ru/en/), an international manufacturer of measuring equipment for GPS/Glonass satellite systems in transport monitoring. Our products include fuel level sensors and control detectors for various machinery used in road construction, public utility, and agriculture. We are dedicated to making the world cleaner and smarter.
 
 
-## My Skills
+## My Skills 🚀
 
-🚀 I specialize in programming in Python, and I confidently use it for data analysis, Machine Learning model development, and desktop application creation.
+I specialize in programming in Python, and I confidently use it for data analysis, Machine Learning model development, and desktop application creation.
 
-## Education
+## Education 🎓
 
 - 2019-2021: [Kazan Federal University](https://eng.kpfu.ru/)
 - 2021-2024: [Kazan National Research Technological University]([https://eng.kpfu.ru/](https://www.kstu.ru/knrtu/index_en.jsp))
 - 2020-2022: [Higher School of Foreign Languages and Translation Studies "Lingva"]
+- 2022: [project "digital departments"](https://innopolis.university/en/)
 
-## Soft Skills
+## Soft Skills 💬
 - **Teamwork and Collaboration:**
   - With extensive experience in cross-functional teams and teams with international composition, I thrive in collaborative environments, fostering synergy and cohesion among team members to achieve common goals.
 

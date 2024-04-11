@@ -17,15 +17,15 @@ Today, I'm a participant of the analytics laboratory at [FMeter](https://www.fme
 
 ## Soft Skills
 - **Teamwork and Collaboration:**
-  With extensive experience in cross-functional teams and teams with international composition, I thrive in collaborative environments, fostering synergy and cohesion among team members to achieve common goals.
+  - With extensive experience in cross-functional teams and teams with international composition, I thrive in collaborative environments, fostering synergy and cohesion among team members to achieve common goals.
 
 - **Project Management:**
- - Proficient in project management methodologies, including:
- - The project lifecycle
- - SWOT analysis
- - Team formation
- - RACI matrix, 
- - Gantt chart utilization.
+  - Proficient in project management methodologies, including:
+  - The project lifecycle
+  - SWOT analysis
+  - Team formation
+  - RACI matrix, 
+  - Gantt chart utilization.
  I have successfully led projects from initiation to completion, ensuring alignment with strategic objectives and delivering high-quality results on time and within budget.
 
 - **Mentoring:**

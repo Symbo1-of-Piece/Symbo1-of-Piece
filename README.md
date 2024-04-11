@@ -16,9 +16,6 @@ I specialize in programming in Python, and I confidently use it for data analysi
 - 2020-2022: Higher School of Foreign Languages and Translation Studies "Lingva"
 - 2019-2021: [Kazan Federal University](https://eng.kpfu.ru/)
 
-
-
-
 ### Soft Skills 💬
 - **Teamwork and Collaboration:**
   - With extensive experience in cross-functional teams and teams with international composition, I thrive in collaborative environments, fostering synergy and cohesion among team members to achieve common goals.

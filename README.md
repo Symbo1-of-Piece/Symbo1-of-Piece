@@ -32,3 +32,42 @@ Today, I'm a participant of the analytics laboratory at [FMeter](https://www.fme
  
 ## Stack 🛠
   [![My Skills](https://skillicons.dev/icons?i=python,anaconda,postgres,mongodb,docker,git)](https://skillicons.dev)
+
+## Data Analysis and Machine Learning
+- Pandas
+- NumPy
+- SciPy
+- Scikit-learn (sklearn)
+- CatBoost
+- Xgboost
+- lightgbm
+- nltk
+- Time Series Analysis, hypothesis testing, and A/B testing
+
+## Data Visualization
+- Matplotlib
+- Plotly
+- Seaborn
+
+## Computer Vision
+- OpenCV
+
+## Database
+- MongoDB
+- SQL
+
+## Web Scraping
+- Aiohttp
+- Beautiful Soup (bs4)
+
+## Dashboard Creation and GUI
+- Dash
+- Tkinter
+- Pysimplegui
+
+## Dashboard Creation and GUI
+- Asyncio
+- Threading
+
+## Version Control
+- Git: Proficient in Git for collaborative version control and managing project repositories on platforms like GitHub.

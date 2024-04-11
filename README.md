@@ -1,5 +1,4 @@
-## 👋 Nice to e-meet you, I'm Tim
-### Welcome to my profile
+# 👋 Nice to e-meet you, I'm Tim
 
 ---
 
@@ -9,11 +8,28 @@ Today, I'm a participant of the analytics laboratory at [FMeter](https://www.fme
 
 ---
 
-#### My Skills
+## My Skills
 
 🚀 I specialize in programming in Python, and I confidently use it for data analysis, Machine Learning model development, and desktop application creation.
 
-#### My Education
+## Education
 
 2019-2021: [Kazan Federal University](https://eng.kpfu.ru/)
+2021-2024: [Kazan National Research Technological University]([https://eng.kpfu.ru/](https://www.kstu.ru/knrtu/index_en.jsp))
+2020-2022: [Higher School of Foreign Languages and Translation Studies "Lingva"]
 
+## Soft Skills
+- **Teamwork and Collaboration:**
+ With extensive experience in cross-functional teams and teams with international composition, I thrive in collaborative environments, fostering synergy and cohesion among team members to achieve common goals.
+
+- **Project Management:**
+Proficient in project management methodologies, including:
+- The project lifecycle
+- SWOT analysis
+- Team formation
+- RACI matrix, 
+- Gantt chart utilization.
+I have successfully led projects from initiation to completion, ensuring alignment with strategic objectives and delivering high-quality results on time and within budget.
+
+- **Mentoring:**
+I have experience in mentoring, onboarding, and integrating employees into company with 30+ individuals and conducting lessons on team building

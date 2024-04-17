@@ -21,6 +21,7 @@ I specialize in programming in Python, and I confidently use it for data analysi
   - With extensive experience in cross-functional teams and teams with international composition, I thrive in collaborative environments, fostering synergy and cohesion among team members to achieve common goals.
 
 - **Project Management:**
+  - Kanban
   - The project lifecycle
   - SWOT analysis
   - Team formation

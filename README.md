@@ -33,7 +33,7 @@ I specialize in programming in Python, and I confidently use it for data analysi
   - I have experience in mentoring, onboarding, and integrating employees into company with 30+ individuals and conducting lessons on team building
  
 ## Stack 🛠
-  [![My Skills](https://skillicons.dev/icons?i=python,anaconda,postgres,mongodb,docker,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,anaconda,postgres,mysql,mongodb,docker,git)](https://skillicons.dev)
 
 ### Data Analysis and Machine Learning
 - Pandas

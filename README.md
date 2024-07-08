@@ -11,7 +11,7 @@ I specialize in programming in Python, and I confidently use it for data analysi
 
 ## Education 🎓
 
-- 2021-2024: [Kazan National Research Technological University](https://www.kstu.ru/knrtu/index_en.jsp))
+- 2021-2024: [Kazan National Research Technological University](https://www.kstu.ru/knrtu/index_en.jsp)
 - 2022: ["digital departments" Innopolis University](https://innopolis.university/en/)
 - 2020-2022: Higher School of Foreign Languages and Translation Studies "Lingva"
 - 2019-2021: [Kazan Federal University](https://eng.kpfu.ru/)
